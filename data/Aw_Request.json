@@ -1,0 +1,28 @@
+{
+   "request":[
+{
+ 
+  "adultCount": "1",
+   "childCount": "0",
+   "infantCount": "0",
+   "isDirectFlight": "false",
+   "isPlusOrMinus3Days": "false",
+   "searchType": "2",
+   "preferedFlightClass": "3",
+        "segments": [
+      {
+         "departureLocationCode": "LHR",
+         "departureDate": "18-09-2019",
+         "arrivalLocationCode": "CMB",
+         "returnDate": "26-09-2019",
+         "departureTime": "Any",
+         "returnTime": "Any"
+      }
+   ],
+   "paging": {
+      "PageIndex": "1",
+      "PageSize": "50"
+   }
+   }
+]
+}

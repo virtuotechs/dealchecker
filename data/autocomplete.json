@@ -1,0 +1,1054 @@
+[
+    {
+        "PlaceId": "DEL",
+        "PlaceName": "New Delhi",
+        "LocalizedPlaceName": "",
+        "CountryId": "IN",
+        "CityId": "IDEL",
+        "CountryName": "India",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "New Delhi",
+        "CityNameEn": "",
+        "GeoId": "95673498",
+        "GeoContainerId": "27540706",
+        "Location": "28.573611,77.100833",
+        "ResultingPhrase": "New Delhi (DEL), New Delhi|Delhi|India",
+        "Highlighting": [
+            [
+                0,
+                1
+            ],
+            [
+                17,
+                18
+            ]
+        ]
+    },
+    {
+        "PlaceId": "CCU",
+        "PlaceName": "Netaji Subhash Chandra Bose International",
+        "LocalizedPlaceName": "",
+        "CountryId": "IN",
+        "CityId": "ICCU",
+        "CountryName": "India",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "Kolkata",
+        "CityNameEn": "",
+        "GeoId": "128668366",
+        "GeoContainerId": "27539726",
+        "Location": "22.6525,88.449167",
+        "ResultingPhrase": "Netaji Subhash Chandra Bose International (CCU), Kolkata|West Bengal|India",
+        "Highlighting": [
+            [
+                0,
+                1
+            ]
+        ]
+    },
+    {
+        "PlaceId": "NAG",
+        "PlaceName": "Nagpur",
+        "LocalizedPlaceName": "",
+        "CountryId": "IN",
+        "CityId": "INAG",
+        "CountryName": "India",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "Nagpur",
+        "CityNameEn": "",
+        "GeoId": "128668867",
+        "GeoContainerId": "27545081",
+        "Location": "21.091111,79.049722",
+        "ResultingPhrase": "Nagpur (NAG), Nagpur|Nāgpur|Maharashtra|India",
+        "Highlighting": [
+            [
+                0,
+                1
+            ],
+            [
+                8,
+                9
+            ],
+            [
+                14,
+                15
+            ],
+            [
+                21,
+                22
+            ]
+        ]
+    },
+    {
+        "PlaceId": "MNL",
+        "PlaceName": "Manila Ninoy Aquino",
+        "LocalizedPlaceName": "",
+        "CountryId": "PH",
+        "CityId": "MNLP",
+        "CountryName": "Philippines",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "Manila",
+        "CityNameEn": "",
+        "GeoId": "95673326",
+        "GeoContainerId": "27544979",
+        "Location": "14.51,121.018333",
+        "ResultingPhrase": "Manila Ninoy Aquino (MNL), Manila|Metro Manila|Philippines",
+        "Highlighting": [
+            [
+                7,
+                8
+            ]
+        ]
+    },
+    {
+        "PlaceId": "NYCA",
+        "PlaceName": "New York",
+        "LocalizedPlaceName": "",
+        "CountryId": "US",
+        "CityId": "NYCA",
+        "CountryName": "United States",
+        "PlaceNameEn": "",
+        "RegionId": "NY",
+        "CityName": "New York",
+        "CityNameEn": "",
+        "GeoId": "27537542",
+        "GeoContainerId": "27537542",
+        "Location": "40.6940959901,-73.9282670243",
+        "ResultingPhrase": "New York|New York|United States",
+        "Highlighting": [
+            [
+                0,
+                1
+            ],
+            [
+                9,
+                10
+            ]
+        ]
+    },
+    {
+        "PlaceId": "JFK",
+        "PlaceName": "New York John F. Kennedy",
+        "LocalizedPlaceName": "",
+        "CountryId": "US",
+        "CityId": "NYCA",
+        "CountryName": "United States",
+        "PlaceNameEn": "",
+        "RegionId": "NY",
+        "CityName": "New York",
+        "CityNameEn": "",
+        "GeoId": "95565058",
+        "GeoContainerId": "27537542",
+        "Location": "40.638611,-73.776944",
+        "ResultingPhrase": "New York John F. Kennedy (JFK), New York|New York|United States",
+        "Highlighting": [
+            [
+                0,
+                1
+            ],
+            [
+                32,
+                33
+            ],
+            [
+                41,
+                42
+            ]
+        ]
+    },
+    {
+        "PlaceId": "EWR",
+        "PlaceName": "New York Newark",
+        "LocalizedPlaceName": "",
+        "CountryId": "US",
+        "CityId": "NYCA",
+        "CountryName": "United States",
+        "PlaceNameEn": "",
+        "RegionId": "NJ",
+        "CityName": "New York",
+        "CityNameEn": "",
+        "GeoId": "95565059",
+        "GeoContainerId": "27537542",
+        "Location": "40.695833,-74.171667",
+        "ResultingPhrase": "New York Newark (EWR), New York|New York|United States",
+        "Highlighting": [
+            [
+                0,
+                1
+            ],
+            [
+                9,
+                10
+            ],
+            [
+                23,
+                24
+            ],
+            [
+                32,
+                33
+            ]
+        ]
+    },
+    {
+        "PlaceId": "LGA",
+        "PlaceName": "New York LaGuardia",
+        "LocalizedPlaceName": "",
+        "CountryId": "US",
+        "CityId": "NYCA",
+        "CountryName": "United States",
+        "PlaceNameEn": "",
+        "RegionId": "NY",
+        "CityName": "New York",
+        "CityNameEn": "",
+        "GeoId": "95565057",
+        "GeoContainerId": "27537542",
+        "Location": "40.779444,-73.875833",
+        "ResultingPhrase": "New York LaGuardia (LGA), New York|New York|United States",
+        "Highlighting": [
+            [
+                0,
+                1
+            ],
+            [
+                26,
+                27
+            ],
+            [
+                35,
+                36
+            ]
+        ]
+    },
+    {
+        "PlaceId": "SWF",
+        "PlaceName": "Stewart International",
+        "LocalizedPlaceName": "",
+        "CountryId": "US",
+        "CityId": "NYCA",
+        "CountryName": "United States",
+        "PlaceNameEn": "",
+        "RegionId": "NY",
+        "CityName": "New York",
+        "CityNameEn": "",
+        "GeoId": "95566280",
+        "GeoContainerId": "27537542",
+        "Location": "41.505833,-74.097222",
+        "ResultingPhrase": "Stewart International (SWF), New York|New York|United States",
+        "Highlighting": [
+            [
+                29,
+                30
+            ],
+            [
+                38,
+                39
+            ]
+        ]
+    },
+    {
+        "PlaceId": "NCL",
+        "PlaceName": "Newcastle",
+        "LocalizedPlaceName": "",
+        "CountryId": "UK",
+        "CityId": "NEWC",
+        "CountryName": "United Kingdom",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "Newcastle",
+        "CityNameEn": "",
+        "GeoId": "95674044",
+        "GeoContainerId": "27545092",
+        "Location": "55.037778,-1.686667",
+        "ResultingPhrase": "Newcastle (NCL), Newcastle|Tyne Wear|England|United Kingdom",
+        "Highlighting": [
+            [
+                0,
+                1
+            ],
+            [
+                11,
+                12
+            ],
+            [
+                17,
+                18
+            ]
+        ]
+    },
+    {
+        "PlaceId": "CMBA",
+        "PlaceName": "Colombo",
+        "LocalizedPlaceName": "",
+        "CountryId": "LK",
+        "CityId": "CMBA",
+        "CountryName": "Sri Lanka",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "Colombo",
+        "CityNameEn": "",
+        "GeoId": "27539843",
+        "GeoContainerId": "27539843",
+        "Location": "6.9319443696,79.8477780548",
+        "ResultingPhrase": "Colombo|Colombo|Western|Sri Lanka",
+        "Highlighting": [
+            [
+                0,
+                4
+            ],
+            [
+                8,
+                12
+            ]
+        ]
+    },
+    {
+        "PlaceId": "CMB",
+        "PlaceName": "Colombo Bandaranayake",
+        "LocalizedPlaceName": "",
+        "CountryId": "LK",
+        "CityId": "CMBA",
+        "CountryName": "Sri Lanka",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "Colombo",
+        "CityNameEn": "",
+        "GeoId": "95673656",
+        "GeoContainerId": "27539843",
+        "Location": "7.175,79.884722",
+        "ResultingPhrase": "Colombo Bandaranayake (CMB), Colombo|Colombo|Western|Sri Lanka",
+        "Highlighting": [
+            [
+                0,
+                4
+            ],
+            [
+                29,
+                33
+            ],
+            [
+                37,
+                41
+            ]
+        ]
+    },
+    {
+        "PlaceId": "RML",
+        "PlaceName": "Colombo Ratmalana",
+        "LocalizedPlaceName": "",
+        "CountryId": "LK",
+        "CityId": "CMBA",
+        "CountryName": "Sri Lanka",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "Colombo",
+        "CityNameEn": "",
+        "GeoId": "129053405",
+        "GeoContainerId": "27539843",
+        "Location": "6.819444,79.8875",
+        "ResultingPhrase": "Colombo Ratmalana (RML), Colombo|Colombo|Western|Sri Lanka",
+        "Highlighting": [
+            [
+                0,
+                4
+            ],
+            [
+                25,
+                29
+            ],
+            [
+                33,
+                37
+            ]
+        ]
+    },
+    {
+        "PlaceId": "CGN",
+        "PlaceName": "Cologne",
+        "LocalizedPlaceName": "",
+        "CountryId": "DE",
+        "CityId": "COLO",
+        "CountryName": "Germany",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "Cologne",
+        "CityNameEn": "",
+        "GeoId": "95673544",
+        "GeoContainerId": "34235350",
+        "Location": "50.865833,7.141944",
+        "ResultingPhrase": "Cologne (CGN), Cologne|North Rhine-Westphalia|Germany",
+        "Highlighting": [
+            [
+                0,
+                4
+            ],
+            [
+                15,
+                19
+            ]
+        ]
+    },
+    {
+        "PlaceId": "CO",
+        "PlaceName": "Colombia",
+        "LocalizedPlaceName": "",
+        "CountryId": "CO",
+        "CityId": "",
+        "CountryName": "Colombia",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "",
+        "CityNameEn": "",
+        "GeoId": "29475425",
+        "GeoContainerId": "29475425",
+        "Location": "3.9264151199,-73.1040637653",
+        "ResultingPhrase": "Colombia",
+        "Highlighting": [
+            [
+                0,
+                4
+            ]
+        ]
+    },
+    {
+        "PlaceId": "COS",
+        "PlaceName": "Colorado Springs Peterson Field",
+        "LocalizedPlaceName": "",
+        "CountryId": "US",
+        "CityId": "COSA",
+        "CountryName": "United States",
+        "PlaceNameEn": "",
+        "RegionId": "CO",
+        "CityName": "Colorado Springs",
+        "CityNameEn": "",
+        "GeoId": "95673707",
+        "GeoContainerId": "27536472",
+        "Location": "38.803865,-104.70108",
+        "ResultingPhrase": "Colorado Springs Peterson Field (COS), Colorado Springs|Paso|Colorado|United States",
+        "Highlighting": [
+            [
+                0,
+                4
+            ],
+            [
+                39,
+                43
+            ],
+            [
+                61,
+                65
+            ]
+        ]
+    },
+    {
+        "PlaceId": "CSA",
+        "PlaceName": "Colonsay Is",
+        "LocalizedPlaceName": "",
+        "CountryId": "UK",
+        "CityId": "CSAA",
+        "CountryName": "United Kingdom",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "Scalasaig",
+        "CityNameEn": "",
+        "GeoId": "128668390",
+        "GeoContainerId": "46421346",
+        "Location": "56.083333,-6.2",
+        "ResultingPhrase": "Colonsay Is (CSA), Scalasaig|Argyll Bute|Scotland|United Kingdom",
+        "Highlighting": [
+            [
+                0,
+                4
+            ]
+        ]
+    },
+    {
+        "PlaceId": "BOG",
+        "PlaceName": "Bogota",
+        "LocalizedPlaceName": "",
+        "CountryId": "CO",
+        "CityId": "BOGA",
+        "CountryName": "Colombia",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "Bogota",
+        "CityNameEn": "",
+        "GeoId": "95673344",
+        "GeoContainerId": "27539515",
+        "Location": "4.7,-74.15",
+        "ResultingPhrase": "Bogota (BOG), Bogota|Cundinamarca Department|Colombia",
+        "Highlighting": [
+            [
+                45,
+                49
+            ]
+        ]
+    },
+    {
+        "PlaceId": "DENA",
+        "PlaceName": "Denver",
+        "LocalizedPlaceName": "",
+        "CountryId": "US",
+        "CityId": "DENA",
+        "CountryName": "United States",
+        "PlaceNameEn": "",
+        "RegionId": "CO",
+        "CityName": "Denver",
+        "CityNameEn": "",
+        "GeoId": "27536589",
+        "GeoContainerId": "27536589",
+        "Location": "39.7391553263,-104.9847034024",
+        "ResultingPhrase": "Denver|Denver|Colorado|United States",
+        "Highlighting": [
+            [
+                14,
+                18
+            ]
+        ]
+    },
+    {
+        "PlaceId": "DEN",
+        "PlaceName": "Denver International",
+        "LocalizedPlaceName": "",
+        "CountryId": "US",
+        "CityId": "DENA",
+        "CountryName": "United States",
+        "PlaceNameEn": "",
+        "RegionId": "CO",
+        "CityName": "Denver",
+        "CityNameEn": "",
+        "GeoId": "95673705",
+        "GeoContainerId": "27536589",
+        "Location": "39.862317,-104.675331",
+        "ResultingPhrase": "Denver International (DEN), Denver|Denver|Colorado|United States",
+        "Highlighting": [
+            [
+                42,
+                46
+            ]
+        ]
+    },
+    {
+        "PlaceId": "DEL",
+        "PlaceName": "New Delhi",
+        "LocalizedPlaceName": "",
+        "CountryId": "IN",
+        "CityId": "IDEL",
+        "CountryName": "India",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "New Delhi",
+        "CityNameEn": "",
+        "GeoId": "95673498",
+        "GeoContainerId": "27540706",
+        "Location": "28.573611,77.100833",
+        "ResultingPhrase": "New Delhi (DEL), New Delhi|Delhi|India",
+        "Highlighting": [
+            [
+                0,
+                3
+            ],
+            [
+                17,
+                20
+            ]
+        ]
+    },
+    {
+        "PlaceId": "NYCA",
+        "PlaceName": "New York",
+        "LocalizedPlaceName": "",
+        "CountryId": "US",
+        "CityId": "NYCA",
+        "CountryName": "United States",
+        "PlaceNameEn": "",
+        "RegionId": "NY",
+        "CityName": "New York",
+        "CityNameEn": "",
+        "GeoId": "27537542",
+        "GeoContainerId": "27537542",
+        "Location": "40.6940959901,-73.9282670243",
+        "ResultingPhrase": "New York|New York|United States",
+        "Highlighting": [
+            [
+                0,
+                3
+            ],
+            [
+                9,
+                12
+            ]
+        ]
+    },
+    {
+        "PlaceId": "JFK",
+        "PlaceName": "New York John F. Kennedy",
+        "LocalizedPlaceName": "",
+        "CountryId": "US",
+        "CityId": "NYCA",
+        "CountryName": "United States",
+        "PlaceNameEn": "",
+        "RegionId": "NY",
+        "CityName": "New York",
+        "CityNameEn": "",
+        "GeoId": "95565058",
+        "GeoContainerId": "27537542",
+        "Location": "40.638611,-73.776944",
+        "ResultingPhrase": "New York John F. Kennedy (JFK), New York|New York|United States",
+        "Highlighting": [
+            [
+                0,
+                3
+            ],
+            [
+                32,
+                35
+            ],
+            [
+                41,
+                44
+            ]
+        ]
+    },
+    {
+        "PlaceId": "EWR",
+        "PlaceName": "New York Newark",
+        "LocalizedPlaceName": "",
+        "CountryId": "US",
+        "CityId": "NYCA",
+        "CountryName": "United States",
+        "PlaceNameEn": "",
+        "RegionId": "NJ",
+        "CityName": "New York",
+        "CityNameEn": "",
+        "GeoId": "95565059",
+        "GeoContainerId": "27537542",
+        "Location": "40.695833,-74.171667",
+        "ResultingPhrase": "New York Newark (EWR), New York|New York|United States",
+        "Highlighting": [
+            [
+                0,
+                3
+            ],
+            [
+                9,
+                12
+            ],
+            [
+                23,
+                26
+            ],
+            [
+                32,
+                35
+            ]
+        ]
+    },
+    {
+        "PlaceId": "LGA",
+        "PlaceName": "New York LaGuardia",
+        "LocalizedPlaceName": "",
+        "CountryId": "US",
+        "CityId": "NYCA",
+        "CountryName": "United States",
+        "PlaceNameEn": "",
+        "RegionId": "NY",
+        "CityName": "New York",
+        "CityNameEn": "",
+        "GeoId": "95565057",
+        "GeoContainerId": "27537542",
+        "Location": "40.779444,-73.875833",
+        "ResultingPhrase": "New York LaGuardia (LGA), New York|New York|United States",
+        "Highlighting": [
+            [
+                0,
+                3
+            ],
+            [
+                26,
+                29
+            ],
+            [
+                35,
+                38
+            ]
+        ]
+    },
+    {
+        "PlaceId": "SWF",
+        "PlaceName": "Stewart International",
+        "LocalizedPlaceName": "",
+        "CountryId": "US",
+        "CityId": "NYCA",
+        "CountryName": "United States",
+        "PlaceNameEn": "",
+        "RegionId": "NY",
+        "CityName": "New York",
+        "CityNameEn": "",
+        "GeoId": "95566280",
+        "GeoContainerId": "27537542",
+        "Location": "41.505833,-74.097222",
+        "ResultingPhrase": "Stewart International (SWF), New York|New York|United States",
+        "Highlighting": [
+            [
+                29,
+                32
+            ],
+            [
+                38,
+                41
+            ]
+        ]
+    },
+    {
+        "PlaceId": "NCL",
+        "PlaceName": "Newcastle",
+        "LocalizedPlaceName": "",
+        "CountryId": "UK",
+        "CityId": "NEWC",
+        "CountryName": "United Kingdom",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "Newcastle",
+        "CityNameEn": "",
+        "GeoId": "95674044",
+        "GeoContainerId": "27545092",
+        "Location": "55.037778,-1.686667",
+        "ResultingPhrase": "Newcastle (NCL), Newcastle|Tyne Wear|England|United Kingdom",
+        "Highlighting": [
+            [
+                0,
+                3
+            ],
+            [
+                17,
+                20
+            ]
+        ]
+    },
+    {
+        "PlaceId": "NZ",
+        "PlaceName": "New Zealand",
+        "LocalizedPlaceName": "",
+        "CountryId": "NZ",
+        "CityId": "",
+        "CountryName": "New Zealand",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "",
+        "CityNameEn": "",
+        "GeoId": "29475342",
+        "GeoContainerId": "29475342",
+        "Location": "-41.7601141559,170.3537544146",
+        "ResultingPhrase": "New Zealand",
+        "Highlighting": [
+            [
+                0,
+                3
+            ]
+        ]
+    },
+    {
+        "PlaceId": "SYD",
+        "PlaceName": "Sydney",
+        "LocalizedPlaceName": "",
+        "CountryId": "AU",
+        "CityId": "SYDA",
+        "CountryName": "Australia",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "Sydney",
+        "CityNameEn": "",
+        "GeoId": "128667058",
+        "GeoContainerId": "27547097",
+        "Location": "-33.944167,151.175833",
+        "ResultingPhrase": "Sydney (SYD), Sydney|Sydney|New South Wales|Australia",
+        "Highlighting": [
+            [
+                28,
+                31
+            ]
+        ]
+    },
+    {
+        "PlaceId": "AKL",
+        "PlaceName": "Auckland International",
+        "LocalizedPlaceName": "",
+        "CountryId": "NZ",
+        "CityId": "AKLN",
+        "CountryName": "New Zealand",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "Auckland",
+        "CityNameEn": "",
+        "GeoId": "95673805",
+        "GeoContainerId": "27536526",
+        "Location": "-37.011111,174.799167",
+        "ResultingPhrase": "Auckland International (AKL), Auckland|Auckland|New Zealand",
+        "Highlighting": [
+            [
+                48,
+                51
+            ]
+        ]
+    },
+    {
+        "PlaceId": "LOND",
+        "PlaceName": "London",
+        "LocalizedPlaceName": "",
+        "CountryId": "UK",
+        "CityId": "LOND",
+        "CountryName": "United Kingdom",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "London",
+        "CityNameEn": "",
+        "GeoId": "27544008",
+        "GeoContainerId": "27544008",
+        "Location": "51.5041174139,-0.0943465343",
+        "ResultingPhrase": "London|England|United Kingdom",
+        "Highlighting": [
+            [
+                0,
+                3
+            ]
+        ]
+    },
+    {
+        "PlaceId": "LHR",
+        "PlaceName": "London Heathrow",
+        "LocalizedPlaceName": "",
+        "CountryId": "UK",
+        "CityId": "LOND",
+        "CountryName": "United Kingdom",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "London",
+        "CityNameEn": "",
+        "GeoId": "95565050",
+        "GeoContainerId": "27544008",
+        "Location": "51.471389,-0.452778",
+        "ResultingPhrase": "London Heathrow (LHR), London|England|United Kingdom",
+        "Highlighting": [
+            [
+                0,
+                3
+            ],
+            [
+                23,
+                26
+            ]
+        ]
+    },
+    {
+        "PlaceId": "LGW",
+        "PlaceName": "London Gatwick",
+        "LocalizedPlaceName": "",
+        "CountryId": "UK",
+        "CityId": "LOND",
+        "CountryName": "United Kingdom",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "London",
+        "CityNameEn": "",
+        "GeoId": "95565051",
+        "GeoContainerId": "27544008",
+        "Location": "51.148056,-0.196667",
+        "ResultingPhrase": "London Gatwick (LGW), London|England|United Kingdom",
+        "Highlighting": [
+            [
+                0,
+                3
+            ],
+            [
+                22,
+                25
+            ]
+        ]
+    },
+    {
+        "PlaceId": "STN",
+        "PlaceName": "London Stansted",
+        "LocalizedPlaceName": "",
+        "CountryId": "UK",
+        "CityId": "LOND",
+        "CountryName": "United Kingdom",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "London",
+        "CityNameEn": "",
+        "GeoId": "95565052",
+        "GeoContainerId": "27544008",
+        "Location": "51.883333,0.233333",
+        "ResultingPhrase": "London Stansted (STN), London|England|United Kingdom",
+        "Highlighting": [
+            [
+                0,
+                3
+            ],
+            [
+                23,
+                26
+            ]
+        ]
+    },
+    {
+        "PlaceId": "LTN",
+        "PlaceName": "London Luton",
+        "LocalizedPlaceName": "",
+        "CountryId": "UK",
+        "CityId": "LOND",
+        "CountryName": "United Kingdom",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "London",
+        "CityNameEn": "",
+        "GeoId": "95565053",
+        "GeoContainerId": "27544008",
+        "Location": "51.878704,-0.375705",
+        "ResultingPhrase": "London Luton (LTN), London|England|United Kingdom",
+        "Highlighting": [
+            [
+                0,
+                3
+            ],
+            [
+                20,
+                23
+            ]
+        ]
+    },
+    {
+        "PlaceId": "LCY",
+        "PlaceName": "London City",
+        "LocalizedPlaceName": "",
+        "CountryId": "UK",
+        "CityId": "LOND",
+        "CountryName": "United Kingdom",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "London",
+        "CityNameEn": "",
+        "GeoId": "95565047",
+        "GeoContainerId": "27544008",
+        "Location": "51.503753,0.048512",
+        "ResultingPhrase": "London City (LCY), London|England|United Kingdom",
+        "Highlighting": [
+            [
+                0,
+                3
+            ],
+            [
+                19,
+                22
+            ]
+        ]
+    },
+    {
+        "PlaceId": "SEN",
+        "PlaceName": "London Southend",
+        "LocalizedPlaceName": "",
+        "CountryId": "UK",
+        "CityId": "LOND",
+        "CountryName": "United Kingdom",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "London",
+        "CityNameEn": "",
+        "GeoId": "95565054",
+        "GeoContainerId": "27544008",
+        "Location": "51.5728,0.7014",
+        "ResultingPhrase": "London Southend (SEN), London|England|United Kingdom",
+        "Highlighting": [
+            [
+                0,
+                3
+            ],
+            [
+                23,
+                26
+            ]
+        ]
+    },
+    {
+        "PlaceId": "YXU",
+        "PlaceName": "London",
+        "LocalizedPlaceName": "",
+        "CountryId": "CA",
+        "CityId": "YXUS",
+        "CountryName": "Canada",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "London",
+        "CityNameEn": "",
+        "GeoId": "95673743",
+        "GeoContainerId": "27537437",
+        "Location": "43.04,-81.15",
+        "ResultingPhrase": "London (YXU), London|Ontario|Canada",
+        "Highlighting": [
+            [
+                0,
+                3
+            ],
+            [
+                14,
+                17
+            ]
+        ]
+    },
+    {
+        "PlaceId": "LYR",
+        "PlaceName": "Longyearbyen",
+        "LocalizedPlaceName": "",
+        "CountryId": "SJ",
+        "CityId": "LYRL",
+        "CountryName": "Svalbard and Jan Mayen Islands",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "Longyearbyen",
+        "CityNameEn": "",
+        "GeoId": "104120374",
+        "GeoContainerId": "33449681",
+        "Location": "78.246111,15.465556",
+        "ResultingPhrase": "Longyearbyen (LYR), Longyearbyen|Svalbard|Svalbard and Jan Mayen Islands",
+        "Highlighting": [
+            [
+                0,
+                3
+            ],
+            [
+                20,
+                23
+            ]
+        ]
+    },
+    {
+        "PlaceId": "LBP",
+        "PlaceName": "Long Banga",
+        "LocalizedPlaceName": "",
+        "CountryId": "MY",
+        "CityId": "LBPM",
+        "CountryName": "Malaysia",
+        "PlaceNameEn": "",
+        "RegionId": "",
+        "CityName": "Long Banga",
+        "CityNameEn": "",
+        "GeoId": "128668776",
+        "GeoContainerId": "27543984",
+        "Location": "3.2,115.4",
+        "ResultingPhrase": "Long Banga (LBP), Long Banga|Bahagian Miri|Sarawak|Malaysia",
+        "Highlighting": [
+            [
+                0,
+                3
+            ],
+            [
+                18,
+                21
+            ]
+        ]
+    }
+]

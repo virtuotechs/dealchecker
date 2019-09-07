@@ -1,0 +1,12 @@
+<svg id="Group_37" data-name="Group 37" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.695 35.433">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3b55e6;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Chevron_down" data-name="Chevron down" class="cls-1" d="M13.243,2.507,8.009,7.738a1.451,1.451,0,0,1-1.181.407,1.456,1.456,0,0,1-1.183-.407L.414,2.507A1.48,1.48,0,0,1,2.506.413L6.828,4.734,11.148.413a1.481,1.481,0,0,1,2.094,2.094Z" transform="translate(0.019 27.281)"/>
+  <path id="Chevron_down-2" data-name="Chevron down" class="cls-1" d="M13.262,2.527,8.029,7.759a1.451,1.451,0,0,1-1.181.407,1.456,1.456,0,0,1-1.183-.407L.433,2.527A1.48,1.48,0,0,1,2.525.433L6.847,4.755,11.168.433a1.481,1.481,0,1,1,2.094,2.094Z" transform="translate(13.695 8.172) rotate(180)"/>
+</svg>
